@@ -34,11 +34,11 @@ border-radius: 10px;
     border-radius: 5px;
 }
 .check-btn{
-    background:linear-gradient(#14274e, #14274e) !important;
+    background:linear-gradient(#145374, #00334e) !important;
     color: white;
     width: 100% !important;
 }
 .check-btn:hover{
-    background: linear-gradient(#14274e, #14274e) !important;
+    background: linear-gradient(#00334e, #145374) !important;
     cursor: pointer;
 }
